@@ -1,0 +1,5 @@
+{
+  "name": "HumanizeAI 1.3",
+  "description": "HumanizeAI, developed by Soheyl Ebrahimzadeh, is an intelligent tool that converts AI-generated content into natural, human-like text using Google Gemini models. Features fast processing and an interactive editing assistant.",
+  "requestFramePermissions": []
+}
